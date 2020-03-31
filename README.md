@@ -5,3 +5,6 @@
 
 ## Null Object - (Comportamental) - nao foi um padrao demonstrado no Design Patterns - GoF
     "O padrao Null Object, serve para substituir a utilizadção do termo 'null' no código por uma classe que represente o seu significado ao seu respectivo contexto."
+
+## Observer 
+    " O padrao Observer serve para evitar que uma classe fique sobrecarregada cuidando de varias outras classes e atua exatamente como um observador,porque ele deixa de fazer alguma operação e a classe q estiver sendo referenciada/instanciada por meio dele faz a sua operação. Possui relação de 1 para n e informa as demais classes o que,por exemplo, está sendo inserido ou retirado."    
